@@ -1,0 +1,4 @@
+interface:
+  display_name: "Korea FP Guide Validation"
+  short_description: "Validate Korea SW project FP workbooks"
+  default_prompt: "Validate this FP workbook according to the Korea SW project cost estimation guide and produce an auditable report."
